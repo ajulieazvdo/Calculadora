@@ -1,8 +1,8 @@
-# Calculadora - Case para Engenharia de Software JR
+# Calculadora - Case para Analista de Engenharia JR
 
 ## Descrição
 
-Este é um case para a vaga de Engenharia de Software JR, onde você precisará corrigir problemas em um código existente de uma calculadora e implementar funcionalidades adicionais, conforme especificado abaixo.
+Este é um case para a vaga de Analista de Engenharia JR, onde você precisará corrigir problemas em um código existente de uma calculadora e implementar funcionalidades adicionais, conforme especificado abaixo.
 
 ## Problemas a serem corrigidos
 
